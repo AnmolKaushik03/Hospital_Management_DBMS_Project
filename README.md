@@ -1,1 +1,1 @@
-# Mini_Project_2
+# Hospital_Management_DBMS_Project
